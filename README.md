@@ -1,5 +1,4 @@
-Server watchdog to auto-login during specified hours
-Contains user modifiable hotkeys.
+Server watchdog to auto-login during specified hours. Contains user modifiable hotkeys.
 
 NOT TESTED ON LATEST VERSION, THIS WAS WRITTEN AT RELEASE
 
